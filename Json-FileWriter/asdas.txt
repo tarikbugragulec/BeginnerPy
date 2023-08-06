@@ -1,0 +1,20 @@
+{"ad": "Ahmet", "soyad": "Y\u0131lmaz", "ulke": "T\u00fcrkiye", "sehir": "\u0130stanbul", "yas": 30}
+{"ad": "Emma", "soyad": "Johnson", "ulke": "\u0130ngiltere", "sehir": "Londra", "yas": 28}
+{"ad": "Juan", "soyad": "Gomez", "ulke": "\u0130spanya", "sehir": "Barselona", "yas": 25}
+{"ad": "Elena", "soyad": "Fern\u00e1ndez", "ulke": "\u0130spanya", "sehir": "Madrid", "yas": 32}
+{"ad": "John", "soyad": "Smith", "ulke": "ABD", "sehir": "New York", "yas": 35}
+{"ad": "Maria", "soyad": "Silva", "ulke": "Brezilya", "sehir": "Rio de Janeiro", "yas": 27}
+{"ad": "Mehmet", "soyad": "\u00d6zt\u00fcrk", "ulke": "T\u00fcrkiye", "sehir": "Ankara", "yas": 29}
+{"ad": "Sophia", "soyad": "Lee", "ulke": "G\u00fcney Kore", "sehir": "Seul", "yas": 31}
+{"ad": "Luis", "soyad": "Martinez", "ulke": "Meksika", "sehir": "Meksiko \u015eehri", "yas": 24}
+{"ad": "Lara", "soyad": "M\u00fcller", "ulke": "Almanya", "sehir": "Berlin", "yas": 26}
+{"ad": "Alex", "soyad": "Wong", "ulke": "\u00c7in", "sehir": "Pekin", "yas": 33}
+{"ad": "Fatima", "soyad": "Ahmed", "ulke": "Pakistan", "sehir": "Lahore", "yas": 22}
+{"ad": "Kaan", "soyad": "Demir", "ulke": "T\u00fcrkiye", "sehir": "\u0130zmir", "yas": 27}
+{"ad": "Isabella", "soyad": "Russo", "ulke": "\u0130talya", "sehir": "Roma", "yas": 29}
+{"ad": "Tomas", "soyad": "Nov\u00e1k", "ulke": "\u00c7ekya", "sehir": "Prag", "yas": 30}
+{"ad": "Liam", "soyad": "Brown", "ulke": "Kanada", "sehir": "Toronto", "yas": 26}
+{"ad": "Hannah", "soyad": "Andersen", "ulke": "Danimarka", "sehir": "Kopenhag", "yas": 31}
+{"ad": "Lucas", "soyad": "Garc\u00eda", "ulke": "\u0130spanya", "sehir": "Valencia", "yas": 28}
+{"ad": "Eva", "soyad": "Dubois", "ulke": "Fransa", "sehir": "Paris", "yas": 32}
+{"ad": "David", "soyad": "Kim", "ulke": "G\u00fcney Kore", "sehir": "Seul", "yas": 29}
